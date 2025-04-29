@@ -1,9 +1,8 @@
 ---
-sidebar_position: 1
-title: NVIDIA Platform
+sidebar_position: 8
 ---
 
-# NVIDIA Platform
+# Camera
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
