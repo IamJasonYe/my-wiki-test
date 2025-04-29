@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Wiki test',
-  tagline: 'Wiki test are cool',
+  title: 'SENSING Wiki demo',
+  tagline: 'SENSING Wiki is cool',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
