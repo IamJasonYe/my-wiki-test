@@ -1,0 +1,8 @@
+{
+  "label": "MIPI Camera",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Updated description for MIPI Camera."
+  }
+}
