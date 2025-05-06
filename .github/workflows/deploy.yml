@@ -43,7 +43,7 @@ jobs:
         env:
           USE_SSH: true
         run: |
-          git config --global user.email "1214658495@qq.com"
-          git config --global user.name "1214658495"
+          git config --global user.email "hi@jasonye.xyz"
+          git config --global user.name "Jason Ye"
           yarn install --frozen-lockfile
           yarn deploy
