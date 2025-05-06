@@ -1,9 +1,9 @@
 ---
 sidebar_position: 1
-title: NVIDIA Platform
+title: Embedded Vision
 ---
 
-# NVIDIA Platform
+# Embedded Vision
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
